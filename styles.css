@@ -1,0 +1,84 @@
+.omosh{
+
+  background-image: url("images/landscaped.jpg");
+
+  background-size: cover;
+
+  background-repeat: no-repeat;
+
+  
+
+}
+
+p{
+
+    color: lime;
+
+    font-family: sans-serif;
+
+    font-size: medium;
+
+    font-style: normal;
+
+    text-align: center;
+
+}
+
+p{
+
+    color:black;
+
+    text-align: left;
+
+    font-family: initial;
+    
+}
+
+
+nav{
+
+    max-width: 860px;
+
+    margin: 0 auto;
+
+    padding: 10px 0;
+
+    margin-right: 0%;
+}
+
+ul{
+
+    text-align: right;
+
+}
+
+li{
+
+    display: inline-block;
+
+
+}
+
+nav>ul>li>a{
+
+    padding: 18px;
+
+    margin-right:0% ;
+
+    text-transform: uppercase;
+
+    text-decoration: none;
+
+    display: block;
+
+    color: black;
+}
+
+nav>ul>li>a:hover{
+
+
+    background-color: white;
+
+    color: yellow;
+}
+
